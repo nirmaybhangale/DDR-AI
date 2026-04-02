@@ -1,0 +1,13 @@
+# Sensitive API Keys
+.env
+
+# Python Virtual Environment
+venv/
+env/
+ENV/
+
+# Temporary Files and Folders
+__pycache__/
+temp_*.pdf
+*.pdf
+extracted_media/
